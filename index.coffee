@@ -12,6 +12,6 @@ text-align: center
 vertical-align: middle
 
 color: green
-font-size: 300px;
+font-size: 200px;
 font-family: sans-serif
 """
